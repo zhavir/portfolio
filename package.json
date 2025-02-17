@@ -42,7 +42,7 @@
     "@semantic-release/release-notes-generator": "^13.0.0",
     "@types/react": "^18.2.77",
     "autoprefixer": "^10.0.1",
-    "aws-cdk-lib": "2.140.0",
+    "aws-cdk-lib": "2.178.2",
     "commitizen": "^4.3.0",
     "commitlint": "^19.2.0",
     "commitlint-config-gitmoji": "^2.3.1",
